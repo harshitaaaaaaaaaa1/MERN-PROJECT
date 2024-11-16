@@ -21,12 +21,8 @@ PORT=mongodb+srv://<username>:<password>@cluster.mongodb.net/<database>?retryWri
 
 # Run the application:
 
-# Backend
-
 cd backend
 npm run dev
-
-# Frontend
 
 cd ../frontend
 npm start
